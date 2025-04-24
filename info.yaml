@@ -1,6 +1,6 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     426603706382213121       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  wokwi_id:     426965733601391617       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "Intro to ECSE AND Gate"      # Project title
   author:       "Maxwell Bast"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
